@@ -1,0 +1,13 @@
+.tx{
+    font-size: 8px;
+}
+
+
+#navbarSupportedContent > ul li a,
+nav button {
+  color: #e7b165 !important;
+  text-transform: uppercase;
+  font-size: 13px !important;
+  font-weight: bold !important;
+  letter-spacing: 1px !important;
+}

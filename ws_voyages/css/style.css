@@ -1,0 +1,64 @@
+header>div{
+    background-image: linear-gradient(rgb(45, 253, 149), rgb(34,193,195) );
+    display: flex;
+    color: white;
+} 
+.head{
+    background-color: #33babf;
+    border: white;
+}
+.ate{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.h2{
+    height: 30px;
+    margin: 0px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: white;
+    border: 2px double white;
+    background-color: rgb(34,193,195);
+}
+.h3{
+    padding-right: 15px;
+}
+.top1{
+    width: 80%;
+    margin: auto;
+    height: 300px;
+    margin-top: 5px;
+    background-image: linear-gradient(rgb(86,166,241), rgb(191,129,148));
+    display: flex;
+}
+p{
+    color: white;
+}
+img{
+    border-radius: 50%;
+}
+.jap{
+    color: white;
+    
+}
+.conpact{
+    width: 80%;
+}
+section>div{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+@media (max-width:760) {
+    
+}
